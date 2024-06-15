@@ -1,0 +1,3 @@
+pip install pypdf
+pip install pypttsx3
+pip install PyPDF2
